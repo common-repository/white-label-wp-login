@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128mm"
+   height="128mm"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1"><rect
+       x="251.3902"
+       y="731.17755"
+       width="522.01935"
+       height="110.40836"
+       id="rect2" /></defs><g
+     id="layer1"
+     transform="translate(-41,-84.5)"><rect
+       style="fill:#084af3;fill-opacity:1;stroke-width:0"
+       id="rect1"
+       width="128"
+       height="128"
+       x="41"
+       y="84.5"
+       ry="5" /><g
+       style="fill:#e8eaed"
+       id="g1"
+       transform="matrix(0.09473684,0,0,0.10588235,53.842106,187.25595)"><path
+         d="m 480,-240 z m -320,80 v -112 q 0,-34 17.5,-62.5 17.5,-28.5 46.5,-43.5 62,-31 126,-46.5 64,-15.5 130,-15.5 37,0 73,4.5 36,4.5 72,14.5 l -67,68 q -20,-3 -39,-5 -19,-2 -39,-2 -56,0 -111,13.5 -55,13.5 -109,40.5 -9,5 -14.5,14 -5.5,9 -5.5,20 v 32 h 240 v 80 z m 400,40 v -123 l 221,-220 q 9,-9 20,-13 11,-4 22,-4 12,0 23,4.5 11,4.5 20,13.5 l 37,37 q 8,9 12.5,20 4.5,11 4.5,22 0,11 -4,22.5 -4,11.5 -13,20.5 l -220,220 z m 300,-263 -37,-37 z m -240,203 h 38 l 121,-122 -18,-19 -19,-18 -122,121 z m 141,-141 -19,-18 37,37 z M 480,-480 q -66,0 -113,-47 -47,-47 -47,-113 0,-66 47,-113 47,-47 113,-47 66,0 113,47 47,47 47,113 0,66 -47,113 -47,47 -113,47 z m 0,-80 q 33,0 56.5,-23.5 Q 560,-607 560,-640 560,-673 536.5,-696.5 513,-720 480,-720 q -33,0 -56.5,23.5 -23.5,23.5 -23.5,56.5 0,33 23.5,56.5 23.5,23.5 56.5,23.5 z m 0,-80 z"
+         id="path1" /></g><text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-17.419065,-9.2160913)"
+       id="text1"
+       style="font-size:64px;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display';letter-spacing:4px;white-space:pre;shape-inside:url(#rect2);shape-padding:2.76673;fill:#084af3;fill-opacity:1;stroke-width:0"><tspan
+         x="254.1582"
+         y="793.8943"
+         id="tspan3"><tspan
+           style="fill:#ffffff"
+           id="tspan1">TFWS LOGIN</tspan></tspan></text></g></svg>
